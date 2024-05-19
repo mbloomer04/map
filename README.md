@@ -19,5 +19,5 @@ Includes:
 # NHS Scotland
 - Health Boards
 
-# Northern Ireland
+# Health and Social Care Northern Ireland
 - Trusts
