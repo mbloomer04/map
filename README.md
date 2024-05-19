@@ -7,17 +7,17 @@ All content is stored within the single index.html file.
 
 Includes:
 
-> England
-    ICBs
-    Sub ICBs
-    Trusts
+# England
+- ICBs
+- Sub ICBs
+- Trusts
 
-> NHS Wales (GIG Cymru)
-    Health Boards
-    Trusts
+# NHS Wales (GIG Cymru)
+- Health Boards
+- Trusts
 
-> NHS Scotland
-    Health Boards
+# NHS Scotland
+- Health Boards
 
-> Northern Ireland
-    Trusts
+# Northern Ireland
+- Trusts
