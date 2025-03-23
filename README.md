@@ -10,7 +10,7 @@ Includes:
 # England
 - ICBs
 - Sub ICBs (formerly CCGs)
-- Trusts
+- Trusts (represented as single locations for reference)
 
 # NHS Wales (GIG Cymru)
 - Health Boards
